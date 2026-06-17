@@ -1,0 +1,9 @@
+[project]
+name = "anki-vocab-coverage"
+version = "0.0.1"
+authors = [
+    { name = "Pisakrus" }
+]
+
+[project.scripts]
+anki-vocab-coverage = "anki_vocab_coverage.cli:main"
