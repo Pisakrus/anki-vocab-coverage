@@ -1,0 +1,26 @@
+NOTICE
+
+This project includes third-party components under different licenses.
+
+1. MIT Licensed Dataset
+
+This project uses the dataset:
+<hanyu-shuiping-kaoshi>
+
+Source:
+<https://github.com/gigacool/hanyu-shuiping-kaoshi>
+
+Copyright (c) 2018 gigacool
+
+Licensed under the MIT License.
+
+The full MIT license text is included in:
+src/anki_vocab_coverage/hsk2.0/LICENSE
+
+------------------------------------------------------------
+
+1. This project
+
+The rest of this software is licensed under the GNU General Public License v3.0 (GPL-3.0).
+
+See LICENSE file for full terms.

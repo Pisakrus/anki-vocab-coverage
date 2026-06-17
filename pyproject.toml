@@ -7,3 +7,6 @@ authors = [
 
 [project.scripts]
 anki-vocab-coverage = "anki_vocab_coverage.cli:main"
+
+[tool.setuptools.package-data]
+anki_vocab_coverage = ["datasets/**/*.json"]
